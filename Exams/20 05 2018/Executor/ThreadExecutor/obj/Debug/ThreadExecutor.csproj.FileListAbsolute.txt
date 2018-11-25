@@ -1,0 +1,27 @@
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\ThreadExecutor.exe.config
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\ThreadExecutor.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\ThreadExecutor.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.csprojResolveAssemblyReference.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.csproj.CoreCompileInputs.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\PowerCollections.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\PowerCollections.xml
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\obj\Debug\ThreadExecutor.csprojAssemblyReference.cache
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\obj\Debug\ThreadExecutor.csproj.CoreCompileInputs.cache
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\obj\Debug\ThreadExecutor.exe
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\obj\Debug\ThreadExecutor.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\ThreadExecutor.exe.config
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\ThreadExecutor.exe
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\ThreadExecutor.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\PowerCollections.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\PowerCollections.xml
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\obj\Debug\ThreadExecutor.csproj.CopyComplete
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\nunit.engine.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\nunit.engine.api.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\Mono.Cecil.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\nunit.framework.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\nunit.framework.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutor\bin\Debug\nunit.framework.xml

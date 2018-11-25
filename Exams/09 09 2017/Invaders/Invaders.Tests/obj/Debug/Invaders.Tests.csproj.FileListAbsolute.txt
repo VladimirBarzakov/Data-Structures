@@ -1,0 +1,13 @@
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\Invaders.Tests.dll
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\Invaders.Tests.pdb
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\Invaders.exe
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\Invaders.pdb
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\Invaders.exe.config
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.csprojAssemblyReference.cache
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.csproj.CopyComplete
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.dll
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.pdb
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Sauron\Desktop\Invaders\Invaders.Tests\bin\Debug\PowerCollections.xml

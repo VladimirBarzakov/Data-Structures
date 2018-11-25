@@ -1,0 +1,10 @@
+C:\Users\Sauron\Desktop\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\Sauron\Desktop\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\Sauron\Desktop\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Sauron\Desktop\Invaders\Invaders\bin\Debug\PowerCollections.dll
+C:\Users\Sauron\Desktop\Invaders\Invaders\bin\Debug\PowerCollections.xml
+C:\Users\Sauron\Desktop\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+C:\Users\Sauron\Desktop\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Sauron\Desktop\Invaders\Invaders\obj\Debug\Invaders.csproj.CopyComplete
+C:\Users\Sauron\Desktop\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\Sauron\Desktop\Invaders\Invaders\obj\Debug\Invaders.pdb

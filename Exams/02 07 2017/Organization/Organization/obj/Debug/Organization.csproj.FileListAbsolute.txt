@@ -1,0 +1,10 @@
+C:\Users\Sauron\Desktop\Organization\Organization\bin\Debug\Organization.exe.config
+C:\Users\Sauron\Desktop\Organization\Organization\bin\Debug\Organization.exe
+C:\Users\Sauron\Desktop\Organization\Organization\bin\Debug\Organization.pdb
+C:\Users\Sauron\Desktop\Organization\Organization\bin\Debug\PowerCollections.dll
+C:\Users\Sauron\Desktop\Organization\Organization\bin\Debug\PowerCollections.xml
+C:\Users\Sauron\Desktop\Organization\Organization\obj\Debug\Organization.csprojAssemblyReference.cache
+C:\Users\Sauron\Desktop\Organization\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+C:\Users\Sauron\Desktop\Organization\Organization\obj\Debug\Organization.csproj.CopyComplete
+C:\Users\Sauron\Desktop\Organization\Organization\obj\Debug\Organization.exe
+C:\Users\Sauron\Desktop\Organization\Organization\obj\Debug\Organization.pdb

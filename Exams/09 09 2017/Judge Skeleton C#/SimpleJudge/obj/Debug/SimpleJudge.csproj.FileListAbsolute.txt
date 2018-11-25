@@ -1,0 +1,10 @@
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\bin\Debug\SimpleJudge.exe.config
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\bin\Debug\SimpleJudge.exe
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\bin\Debug\SimpleJudge.pdb
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\bin\Debug\PowerCollections.dll
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\bin\Debug\PowerCollections.xml
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\obj\Debug\SimpleJudge.csprojAssemblyReference.cache
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\obj\Debug\SimpleJudge.csproj.CoreCompileInputs.cache
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\obj\Debug\SimpleJudge.csproj.CopyComplete
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\obj\Debug\SimpleJudge.exe
+C:\Users\Sauron\Desktop\Judge Skeleton C#\SimpleJudge\obj\Debug\SimpleJudge.pdb

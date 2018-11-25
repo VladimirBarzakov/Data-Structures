@@ -1,0 +1,39 @@
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.csprojResolveAssemblyReference.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.csproj.CoreCompileInputs.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\nunit.engine.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\nunit.engine.api.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\Mono.Cecil.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\ThreadExecutorTest.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\ThreadExecutorTest.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\nunit.framework.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\ThreadExecutor.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\ThreadExecutor.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\ThreadExecutor.exe.config
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\nunit.framework.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\nunit.framework.xml
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\PowerCollections.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutorTest\bin\Debug\PowerCollections.xml
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\nunit.engine.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\nunit.engine.api.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\Mono.Cecil.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\ThreadExecutorTest.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\ThreadExecutorTest.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\nunit.framework.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\ThreadExecutor.exe
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\ThreadExecutor.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\ThreadExecutor.exe.config
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\nunit.framework.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\nunit.framework.xml
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.csprojAssemblyReference.cache
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.csproj.CoreCompileInputs.cache
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.csproj.CopyComplete
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\obj\Debug\ThreadExecutorTest.pdb
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\PowerCollections.dll
+C:\Users\Sauron\Desktop\Executor\ThreadExecutorTest\bin\Debug\PowerCollections.xml
